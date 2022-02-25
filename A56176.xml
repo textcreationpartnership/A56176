@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A choice collection of law books ancient, and modern consisting of the library of Henry Parker, Esq., of Grays-Inn deceased : as also of another eminent professor of the law ... will be exposed to sale by way of auction, on ... the 5th day of December, 1681 ... / by Edward Millington.</title>
+            <author>Millington, Edward, d. 1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56176</idno>
+            <idno type="STC">Wing P399</idno>
+            <idno type="STC">ESTC R22895</idno>
+            <idno type="EEBO-CITATION">12364965</idno>
+            <idno type="OCLC">ocm 12364965</idno>
+            <idno type="VID">60397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60397)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 893:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A choice collection of law books ancient, and modern consisting of the library of Henry Parker, Esq., of Grays-Inn deceased : as also of another eminent professor of the law ... will be exposed to sale by way of auction, on ... the 5th day of December, 1681 ... / by Edward Millington.</title>
+                  <author>Millington, Edward, d. 1703.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  Early works to 1800.</term>
+               <term>Law --  Bibliography --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60397:1"/>
+            <pb facs="tcp:60397:1" rendition="simple:additions"/>
+            <p>A Choice COLLECTION OF Law-Books ANCIENT, and MODERN.</p>
+            <p>Conſiſting of the LIBRARY OF <hi>Henry Parker,</hi> 
+               <abbr>Eſq</abbr> of <hi>Grays-Inn</hi> deceaſed; AS ALSO Of another Eminent Profeſſor of the Law, with ſome Additions of other New Law Books, <hi>Viz.</hi> REPORTS, &amp;c.</p>
+            <p>Will be Expoſed to Sale by way of Auction, on Munday next, the 5th. day of <hi>December,</hi> 1681. At the Auction Houſe in <hi>Ivy-lane</hi> next door to the <hi>Wooll-ſack.</hi>
+            </p>
+            <p>By <hi>Edward Millington,</hi> Bookſeller.</p>
+            <p>Catalogues are diſtributed <hi>Gratis</hi> at the <hi>Rain-bow</hi> Coffee Houſe, and at <hi>Richards</hi> Coffee-Houſe in <hi>Fleet-ſtreet</hi> near <hi>Temple-Bar,</hi> at <hi>Johns</hi> Coffee-houſe in <hi>Fullers-Rents</hi> near <hi>Grays-Inn,</hi> at the Coffee-houſe over againſt <hi>Lincolns Inn</hi> in <hi>Chance<g ref="char:EOLhyphen"/>ry-Lane,</hi> at <hi>Bridges</hi> Coffee-houſe in <hi>Popes-Head-Alley</hi> over againſt the <hi>Royal Exchange,</hi> at Mr. <hi>Foxes</hi> Shop in <hi>Weſtminſter-Hall,</hi> and at the above-men<g ref="char:EOLhyphen"/>tioned Auction Houſe in <hi>Ivy. lane.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:60397:2"/>
+            <pb facs="tcp:60397:2"/>
+            <head>TO THE READER.</head>
+            <p>AFter ſo many Sales by Auction of the Libraries of ſeveral eminent Clergymen deceaſed; to the general ſatisfaction of the Buyers, I reſolved once to Conſult the Intereſt, as alſo the Conveniency of the Gentlemen of the Long Robe; by expoſing to Sale by way of Auction, a choice Collection of Books of the <hi>Common</hi> and <hi>Statute Law,</hi> conſiſting of the Library of <hi>Henry Parker,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>&amp;c.</hi> on Monday next, being the fifth day of <hi>December, 1681.</hi> At the Auction Houſe in <hi>Ivy lane,</hi> be<g ref="char:EOLhyphen"/>ginning exactly at the hours of nine in the Morning till Twelve, and Two in the Afternoon till Six.</p>
+            <div type="conditions_of_sale">
+               <head>The Conditions follow.</head>
+               <p>
+                  <hi>Firſt,</hi> That he who bids moſt is the Buyer, and if any Difference ariſeth, the ſame Book or Books to be again expos'd to Sale.</p>
+               <p>
+                  <pb facs="tcp:60397:3"/>
+                  <hi>Secondly,</hi> That the Books in this Catalogue (not other<g ref="char:EOLhyphen"/>wiſe expreſſed) are for ought we know, perfect; but if any of them appear to be otherwiſe (before they be taken away,) the Buyer ſhall have his choice whether he will leave or take the ſame.</p>
+               <p>
+                  <hi>Thirdly,</hi> That the Money for the Book or Books ſo bought is to be paid by the Buyer within 3 weeks af<g ref="char:EOLhyphen"/>ter the Auction is ended at the place of Sale, where up<g ref="char:EOLhyphen"/>on Payment thereof the Book or Books ſhall be ready to be delivered within the time aforeſaid.</p>
+               <p>
+                  <hi>Fourthly,</hi> The Books are to be ſeen every day from the time of the Diſtribution of the Catalogues, from the hours of nine till twelve in the Morning, and Two till Six in the Evening at the Auction Houſe.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="sale_catalogue">
+            <pb n="1" facs="tcp:60397:3"/>
+            <head>A CATALOGUE OF <hi>Law-Books,</hi>
+            </head>
+            <div n="folio" type="size">
+               <head>Folio.</head>
+               <list>
+                  <item>1 <hi>AShes</hi> Tables to the Body of the Law, to the firſt 10. <hi>Cook</hi>'s Reports &amp;c. 2 vol. <hi>Lon.</hi> 1614</item>
+                  <item>2 <hi>Brook</hi>'s Grand Abridgment of the Law. 1575</item>
+                  <item>3—Another grand Abridgment interleaved, and metho<g ref="char:EOLhyphen"/>dized according to the Reigns of the Kings, with interſcriptions. <hi>M. S.</hi> 7 vol. </item>
+                  <item>4 Table to <hi>Fitzherberts</hi> Abridgment. 1565</item>
+                  <item>5 <hi>Scobells</hi> Collection of Acts and Ordinances from 1640 to 1656. Exami<g ref="char:EOLhyphen"/>ned by Records. 1656</item>
+                  <item>6 <hi>Pultons</hi> Collection of Statutes at large, to the 21 of R. <hi>Jacobi.</hi> 2 vol. 1658</item>
+                  <item>7—<hi>Manbys</hi> Collections of Statutes, being a continuation of <hi>Pulton</hi> 1667</item>
+                  <item>8 <hi>Raſtals</hi> Collection of Statutes from <hi>Magna Char<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> to 7. <hi>Jacobi.</hi> 1621</item>
+                  <item>9 Collections of the Statutes of <hi>Ireland,</hi> now in uſe. <hi>Dubl.</hi> 1670</item>
+                  <item>10 Collection of Acts, from 1661, to 1667. <hi>Car.</hi> II. <hi>Lond.</hi> 1667</item>
+                  <item>11 Collection of Acts of Parliament, with Reſolves, Votes, Declarations Orders, Articles, Ordinances, as alſo a compleat Collect. of all the Proclamations, Declarations, Articles of <hi>Cromwel,</hi> from 1648, to to 1658 5 vol. 1656</item>
+                  <item>12 <hi>Keebles</hi> Col. of Statutes, new methodiz'd with additional references. 1681</item>
+                  <item>13 <hi>Brownes</hi> Formulæ benè Placitandi. pars 2. 1674</item>
+                  <item>14 <hi>Dalton</hi>'s Office and Authority of Sheriffs for the uſe of the Gentry. 1628</item>
+                  <item>15—Another of the beſt Edition 1681</item>
+                  <item>16—Countrey Juſtice </item>
+                  <item>17 <hi>Crookes</hi> Reports at the Kings Bench in K. <hi>Charles</hi> I<g ref="char:punc">▪</g> time. 1657</item>
+                  <item>
+                     <pb n="2" facs="tcp:60397:4" rendition="simple:additions"/>18 <hi>Bulſtrodes</hi> Reports, <hi>Eng. Temp. Jac. et Car.</hi> I. 2 parts. 1657</item>
+                  <item>19 <hi>Plowdens</hi> Commentaries, 2 parts, compleat, 3 Tables. 1578</item>
+                  <item>20 <hi>Dyers</hi> Reports, with Tables. 1672</item>
+                  <item>21—Another with 3 Tables, curiouſly noted. 1672</item>
+                  <item>22 <hi>Cowells</hi> Interpreter of the ſignification of the words of the Law. 1658</item>
+                  <item>23. Car. du Freſne Gloſſarium ad ſcriptores Mediæ et infimæ Latinitatis, in qua ferè omnia verba in Spelmanni Gloſſario, continentur, unà cum <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> &amp; <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>Can. &amp;c.</hi> e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>plicatis. 3 vol. <hi>Par.</hi> 1678</item>
+                  <item>24 <hi>Finches</hi> L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w of <hi>Eng<gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>,</hi> in <hi>French. Lond.</hi> 1613</item>
+                  <item>25 <hi>Townſends</hi> Tables <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Printed; Pr<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>id. a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eading<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the Law. 1667</item>
+                  <item>26 <hi>Cookes</hi> Com. on <hi>Littleton,</hi> the firſt part of the Inſtitutes with a Table. 1639</item>
+                  <item>27—Reports in <hi>Engliſh,</hi> compleat. 13 parts, with a large Table. 1680</item>
+                  <item>28 <hi>Aſhes</hi> Table to <hi>Cook</hi>'s Reports, in <hi>Engliſh,</hi> a part. 1680</item>
+                  <item>29 <hi>Davis</hi> Reports in the Courts of <hi>Ireland</hi> with a Table, noted. 1628</item>
+                  <item>30 <hi>Hobartes</hi> Reports, <hi>Eng.</hi> with a Table, beſt Edition 1678</item>
+                  <item>31 <hi>Yelvertons</hi> Reports. 1674</item>
+                  <item>32 <hi>Dukes</hi> Law of Charitable Uſes, with Sir <hi>Fra. Moores</hi> Caſes in Law. 1676</item>
+                  <item>33 <hi>Leonard<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> Reports <hi>Eng.</hi> in Q<g ref="char:punc">▪</g> 
+                     <hi>Elizabeths</hi> time. <hi>4th.</hi> part<g ref="char:punc">▪</g> 
+                     <hi>Lond.</hi> 1675</item>
+                  <item>34—Reports compleat. 4 parts, 2 vol. 1663</item>
+                  <item>35 <hi>Wingates</hi> Maxims of Reaſon in the Common Law of <hi>England.</hi> 1658</item>
+                  <item>36 <hi>Pultons</hi> Abridgment of the Statutes of <hi>England.</hi> 1642</item>
+                  <item>37—de Pace Regis et Regni, of Treaſons, <hi>&amp;c.</hi> 1610</item>
+                  <item>38 <hi>Prynns</hi> Animadverſions on the Lord <hi>Cook.</hi> Jurisdiction of Courts. 1669</item>
+                  <item>39 <hi>Browns</hi> Book of Entries, containing choice Preſidents. 2 vol. 1671</item>
+                  <item>40 <hi>Vaughans</hi> Reports in the Common pleas, <hi>Engliſh.</hi> 1677</item>
+                  <item>41 <hi>Leys</hi> Reports and Reſolutions in Law in the Courts of Wards. <hi>Eng.</hi> 1659</item>
+                  <item>42 <hi>Eatches</hi> Caſes and Reports in K. Bench. 1661</item>
+                  <item>43 <hi>Winches</hi> Reports of Common Pleas, <hi>French.</hi> 1657</item>
+                  <item>44 <hi>Cooks</hi> Reports 11 parts compleat, with Tables, 2 vol. 1672</item>
+                  <item>45—another compleat, 11 parts, <hi>Fr.</hi> 4 vol. 1607</item>
+                  <item>46—another <hi>Engliſh,</hi> compleat, with a large Table, 1 vol. 1680</item>
+                  <item>47—Commentary on <hi>Littleton,</hi> with a Table. 1628</item>
+                  <item>48—Com. on <hi>Magna Charta, &amp;c.</hi> with a large Table. 1669</item>
+                  <item>49—his Inſtitutes compleat, 4 parts, 3 vol. with Tables. 1639</item>
+                  <item>50—his Book of Entries, containing approved Preſidents, with a Table. 1614</item>
+                  <item>51 <hi>Winches</hi> Entries, containing Declar. Informat. Pleadings, <hi>&amp;c.</hi> 1681</item>
+                  <item>52 <hi>Raſtals</hi> Collection of Entries, with a Table. 1671</item>
+                  <item>53—his Statutes from <hi>M. Charta,</hi> to K. <hi>James 7th.</hi> 1615</item>
+                  <item>54 Compleat ſet of year Books, <hi>viz. Edward</hi> the <hi>3d.</hi> 1, 2. parts. Quadrageſms, Book of Aſſizes, <hi>Edw</hi> the <hi>4th.</hi> and long Quinto. <hi>Edw 4th. Hen. 6th.</hi> 2 vol. <hi>Hen. 4th,</hi> and <hi>5th. Edw. 5th. Rich. 3d. Hen. 7th,</hi> and <hi>8th.</hi> with new Notes and References to <hi>Sta<g ref="char:EOLhyphen"/>tham,</hi> and large Tables, 8 vol. Paſtboards. <hi>Lon.</hi> 1679</item>
+                  <item>
+                     <pb n="3" facs="tcp:60397:4"/>55—another ſet with <hi>Brookes</hi> Notes, Manuſer. by the Lord <hi>Finch,</hi> with <hi>Aſhes</hi> Tables to them, <hi>Bellews Rich.</hi> II. large Paper, 12 vol. Folio. 1 vol. Octavo. <hi>Ibid.</hi> 1562</item>
+                  <item>56 <hi>Linwood</hi> Provinciale ſeu conſtitutiones Angliæ cum ſummariis et Annotat. una cum conſtitutionibus Othonis et Othoboni. Fol. &amp; Octavo. <hi>Par.</hi> 1501</item>
+                  <item>57 <hi>Rolls</hi> Abridgment of the Common Law, compleat. <hi>Lond.</hi> 1668</item>
+                  <item>58—another compleat. 2 vol. 1668</item>
+                  <item>59—his Reports. temp. Jac. Regis. compleat. 2 parts. 1 vol. 1675</item>
+                  <item>60—another compleat. 2 vol. curiouſly Noted. 1675</item>
+                  <item>61 Regiſtrum Brevium originalium. 1634</item>
+                  <item>62 <hi>Cottons</hi> Abridgment of the Records in the Tower. Publ. by <hi>W. Prynne.</hi> 1674</item>
+                  <item>63 Animadverſions on the fourth part of <hi>Cooks</hi> Inſtitutes, by <hi>Prynne.</hi> 1669</item>
+                  <item>64 <hi>Davis</hi> Reports with <hi>Hetley, Noy, Latch,</hi> and <hi>Owen, Banck Le Roy. Car.</hi> I. ſome of them noted. 1674</item>
+                  <item>65 <hi>Jones</hi> Reports of the Kings Bench, noted fairly. <hi>Lond.</hi> 1675</item>
+                  <item>66 <hi>Yelvertons</hi> Reports <hi>Bank Le Roy</hi>—temp. Q. <hi>Elizabeth.</hi> &amp; <hi>Jac.</hi> 1674</item>
+                  <item>67 <hi>Hobarts</hi> Reports of Com. pleas, <hi>Engliſh,</hi> with Table. 1678</item>
+                  <item>68 <hi>Styles</hi> Modern Reports <hi>Car</hi> I. <hi>Engl.</hi> 1658</item>
+                  <item>69 <hi>Leonards</hi> Reports (temp.) R. <hi>Eliz.</hi>) 4 parts, one vol. 1658</item>
+                  <item>70 <hi>Vaughans</hi> Reports in the Common pleas. 1677</item>
+                  <item>71 <hi>Bridgemans</hi> Reports (temp. <hi>Jacob.</hi>) 1659</item>
+                  <item>72 <hi>Davis</hi> Reports in the Courts of <hi>Ireland.</hi> 1674</item>
+                  <item>73 <hi>Leys</hi> Reports in the Court of Wards, temp. <hi>Jac.</hi> &amp; <hi>Car.</hi> I. 1659</item>
+                  <item>74 <hi>Noys</hi> Reports and Caſes in Q. <hi>Elizabeths</hi> time. 1669</item>
+                  <item>75 <hi>Crooks</hi> Reports K. Bench. temp. <hi>Car.</hi> I. large Letter. 1657</item>
+                  <item>76—Compleat 3 vol. <hi>Eliz. Jac.</hi> &amp; <hi>Car</hi> I. 1657</item>
+                  <item>77 <hi>Huttons</hi> Reports. 1656</item>
+                  <item>78 <hi>Moors</hi> Reports. 1656</item>
+                  <item>79 <hi>Pophams</hi> Reports. 1656</item>
+                  <item>80 <hi>Anderſons</hi> Reports 2 parts, compleat letter'd. 1664</item>
+                  <item>81 <hi>Bulſtrodes</hi> Reports compleat, 3 parts, one vol. 1657</item>
+                  <item>82 <hi>Palmers</hi> Reports. <hi>Car.</hi> II. 1678</item>
+                  <item>83. <hi>Keilways</hi> Reports, with <hi>Dalliſon</hi> and <hi>Benlow,</hi> with a Table. 1633</item>
+                  <item>84 <hi>Dugdales</hi> Origines Juridiciales, Hiſtorical Memoirs of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Law, with Cuts. 1680</item>
+                  <item>85 <hi>Sheppards</hi> Epitome of all the Common and Statute Laws of <hi>England,</hi> and the Laws words explained. 1656</item>
+                  <item>86—Law of common aſſurances, touching Deeds in General, <hi>&amp;c.</hi> 1669</item>
+                  <item>87—his actions upon the Caſe for ſlander. 1662</item>
+                  <item>88—his Practical Councellor about Fines and Recoveries, compleat. 1601</item>
+                  <item>89 Book of Entries, being choice Preſidents, by <hi>Brown.</hi> 1675</item>
+                  <item>
+                     <pb n="4" facs="tcp:60397:5"/>90 Law of Common Aſſurances, by <hi>Sheppard.</hi> 1669</item>
+                  <item>91 Forteſcue de laudibus Legum angliæ, with a large commentary, by Mr. <hi>Waterhouſe.</hi> 1663</item>
+                  <item>92 Officinà Brevium, Forms of Judicial Writs, with their Returns and Entries. 1679</item>
+               </list>
+            </div>
+            <div n="quarto" type="size">
+               <head>
+                  <hi>Law-Books,</hi> Quarto.</head>
+               <list>
+                  <item>1 <hi>S<g ref="char:V">Ʋ</g>inburne</hi> of Teſtaments and laſt Wills. <hi>Lond.</hi> 1638</item>
+                  <item>2—another of a later Impreſſion. 1640</item>
+                  <item>3 <hi>Weſts</hi> Symboleography, or the art of Preſidents, 2 parts. 1610</item>
+                  <item>4—another compleat, 1 vol. 1615</item>
+                  <item>5 <hi>Crook</hi> and <hi>Huttons</hi> Arguments, as to Ship-money in <hi>Hambdens</hi> Caſe. 1641</item>
+                  <item>6—another with the Order and Votes of Parliament for vacating Judg<g ref="char:EOLhyphen"/>ment. 1641</item>
+                  <item>7 <hi>Hobarts</hi> Reports in the Court of Common Pleas. 1641</item>
+                  <item>8 <hi>Cowells</hi> Interpreter of the Words and Terms in the Law Writers<g ref="char:punc">▪</g> 1637</item>
+                  <item>9—another explaining moſt words in the Law. 1637</item>
+                  <item>10 <hi>Manwoods</hi> diſcourſe of the Laws of the Foreſt. 1598</item>
+                  <item>11—another, a later Edition. 1615</item>
+                  <item>12 <hi>Staundfords</hi> Pleas of the Crown, with the Kings Prerogative. 1574</item>
+                  <item>13—another. 1567</item>
+                  <item>14 <hi>Crompton</hi>'s Jurisdiction of Courts. 1637</item>
+                  <item>15 Antient right of Biſhops to Sit and Vote in Parl. out of <hi>Cambden, Sel<g ref="char:EOLhyphen"/>den,</hi> and <hi>Spelman.</hi> 1660</item>
+                  <item>16 <hi>Brooks</hi> Grand abridgment of the Law, ſmall <hi>4to.</hi> 1576</item>
+                  <item>17 <hi>Fitzherberts</hi> Grand abridgment, with a large Table, ſmall <hi>4to.</hi> 
+                  </item>
+                  <item>18 <hi>Hughes</hi> Grand abridgment of the Law, alphabetically diſpoſed, 3 vol. 1660</item>
+                  <item>19 <hi>Gregories</hi> Moot-book, or abridgment of Law Titles <hi>Engl.</hi> by <hi>Hughes.</hi> 1657</item>
+                  <item>20—<hi>Hughes</hi> Commentary of original Writs. 1655</item>
+                  <item>21 <hi>Speappards</hi> Grand abridgment of the Common, and Statute Law of <hi>England,</hi> 3 vol. 1672</item>
+                  <item>22—Touchſtone of common Aſſurances as to Conveyances. 1651</item>
+                  <item>23 Compleat Clerk, containing the beſt forms of Preſidents. 1677</item>
+                  <item>24—another containg Preſidents for Conveyances. 1677</item>
+                  <item>25 <hi>Pultons</hi> abſtract of all the Statutes in force 1600</item>
+                  <item>26 Doctrina Placitandi ou L'Art de bon pleading. 1677</item>
+                  <item>27 Placita benè rediviva, a book of Entries. 1661</item>
+                  <item>28—another containing approved Preſidents. 1661</item>
+                  <item>29 The perfect Conveyancer, choice Preſidents, by <hi>Noy, Henden, &amp;c.</hi> 1655</item>
+                  <item>30 <hi>Prynns</hi> Hiſtorical Vindication of the Liberties of <hi>Engl.</hi> 3 parts. 2 vol. 1655</item>
+                  <item>
+                     <pb n="5" facs="tcp:60397:5"/>31 <hi>Moyles</hi> Entries of the moſt moſt ſelect Judicial Writs. 1658</item>
+                  <item>32—another of the ſame. 1658</item>
+                  <item>33 <hi>Powel's</hi> Attourney's Academy, or form of Proceedings in any action. 1623</item>
+                  <item>34—another with the modern and uſual Fees of the Court. 1647</item>
+                  <item>35—treatiſe of the Antiquity and Authority of Courts of Leet. 1668</item>
+                  <item>36—another with the Explication of the Oath of Allegiance. 1642</item>
+                  <item>37—Attourney's Academy, and Almanack, with the Repertory of Records, <hi>&amp;c.</hi> 1638</item>
+                  <item>38 <hi>Ridleys</hi> view of the Civil, and Eccleſiaſtical Law. 1634</item>
+                  <item>39 Zouchei elementa Juris prudentiæ. 1634</item>
+                  <item>40 <hi>Godolphins</hi> abridgment of Eccleſiaſtical Laws. 1680</item>
+                  <item>41—Orphans Legacie, <hi>2d.</hi> Edition, inlarged. 1680</item>
+                  <item>42 <hi>Selden</hi> of Tythes Hiſtory, and the Practice of Payment. 1618</item>
+                  <item>43 <hi>Fidels</hi> Preſidents for a ſtudious young Lawyer. 1654</item>
+                  <item>44 <hi>Smalls</hi> Declarations and Pleadings. 1653</item>
+                  <item>45 <hi>Littleton</hi> in <hi>French,</hi> with paper interleaved. 1591</item>
+                  <item>46 <hi>Boon</hi> Examen Legum Angliæ. 1656</item>
+                  <item>47 <hi>Brownlows</hi> Declarations and Pleadings. 1652</item>
+                  <item>48—of Judicial VVrits. 1653</item>
+                  <item>49—another of the ſame. </item>
+                  <item>50—reports Compleat, 2 parts. </item>
+                  <item>51—another of choice Caſes in Law, 2 vol. 1651</item>
+                  <item>52 <hi>Marches</hi> Reports, or new Caſes. 1675</item>
+                  <item>53—another with Reſolutions and Judgments given on them. 1648</item>
+                  <item>54 <hi>Godbolts</hi> Reports of Caſes in the Court of Records. 1652</item>
+                  <item>55 <hi>Bacons</hi> Elements of the Common Law of <hi>England.</hi> 1652</item>
+                  <item>56—Caſes of Treaſon, and Ordinances in the Chancery, <hi>&amp;c.</hi> 1641</item>
+                  <item>56—on the Statute of Uſes, L. <hi>Brooks</hi> reading on <hi>Magna Charta.</hi> 1641</item>
+                  <item>57 <hi>Lambards</hi> Perambulation and Cuſtomes in <hi>Kent.</hi> 1596</item>
+                  <item>58 <hi>Bracton</hi> de Conſuetudinibus &amp; Legibus Angliæ 1640</item>
+                  <item>59 <hi>Fleta</hi> de Conſuetudinibus &amp; Legibus Angliæ Edit &amp; Notis <hi>Jo. Seldeni.</hi> 1641</item>
+               </list>
+            </div>
+            <div n="octavo and duodecimo" type="size">
+               <head>
+                  <hi>Law-Books in</hi> Octavo, Twelves, <hi>&amp;c.</hi>
+               </head>
+               <list>
+                  <item>1 <hi>VVIngates</hi> abridgment of the Statutes in Force and Uſe. <hi>Lond.</hi> 1655</item>
+                  <item>2—another with two Tables for the finding any Statutes. 1659</item>
+                  <item>3 Abridgment of all the Statutes 1617, 18. <hi>Car.</hi> I. 12, 13, 14. <hi>Car.</hi> II. 1663</item>
+                  <item>4—another of the ſame, with Alphabet. Table. 1664</item>
+                  <item>5—another with an Alphabetical Table. by <hi>Hughes.</hi> 1663</item>
+                  <item>6—of all the Statutes <hi>Caroli</hi> I. &amp; II. to 1673 by <hi>Manby</hi> 1674</item>
+                  <item>7—another with the Names of the Lords and Commons. </item>
+                  <item>
+                     <pb n="6" facs="tcp:60397:6"/>8 Abridgment of all the Statutes in Force, and Uſe to 1681. by <hi>Wingate.</hi> 1681</item>
+                  <item>9—del Roy <hi>Henry</hi> le <hi>Sept.</hi> p. <hi>Brook</hi> 1614</item>
+                  <item>10 <hi>Hughes</hi> Abridgment of Sir <hi>Fr. Moors</hi> Reports, <hi>Engl.</hi> 1665</item>
+                  <item>11—another containing the ſubſtance of Reports. 1655</item>
+                  <item>12 <hi>Irelands</hi> abridgment of <hi>Dyers</hi> Reports, <hi>Engliſh.</hi> 1651</item>
+                  <item>13—abridgment of <hi>Cokes</hi> 11 Reports, <hi>Engliſh.</hi> 1651</item>
+                  <item>14 Abridgment de <hi>Dyer,</hi> interleaved with curious Notes, <hi>M. S. S.</hi> 1669</item>
+                  <item>15—another in <hi>French.</hi> 1602</item>
+                  <item>16 Abridgment of <hi>Cokes</hi> Reports, by <hi>Trotman.</hi> 1640</item>
+                  <item>17—another of the ſame, <hi>French.</hi> 1640</item>
+                  <item>18—of <hi>Cooks</hi> 12, and 13 Reports, <hi>Engl.</hi> by <hi>Manby.</hi> 1670</item>
+                  <item>19—of L. <hi>Cooks</hi> 11 Reports, <hi>Engl.</hi> by <hi>Davis.</hi> 1651</item>
+                  <item>20—another with Tables, fillited. 1651</item>
+                  <item>21 <hi>Aſhes</hi> Table to the L. <hi>Cooks</hi> Reports. 1606</item>
+                  <item>22—Table of the Statute of Equity, with <hi>Dalliſon,</hi> and <hi>Benlows</hi> Re<g ref="char:EOLhyphen"/>ports. 1609</item>
+                  <item>23 <hi>Fleetwood</hi> Elenchus Annalium <hi>Edw. 5. R. 3. Hen.</hi> 7. and <hi>Hen.</hi> 8. 1597</item>
+                  <item>24—table to <hi>Hen.</hi> 7. and 8. year Book. 1597</item>
+                  <item>25 <hi>Fitzherberts</hi> Natura Brevium, <hi>French,</hi> interleav'd, <hi>VVrits</hi> white char. 1616</item>
+                  <item>26—another of another Edition. 1553</item>
+                  <item>27—another in <hi>Engl.</hi> with <hi>Raſtal</hi>'s Tables. 1666</item>
+                  <item>28 <hi>Kitchins</hi> Court Leet, Court Baron, Court Pypowder, <hi>&amp;c.</hi> 1607</item>
+                  <item>29—another of the ſame. 1607</item>
+                  <item>30—another of the Jurisdiction of Court Leet, Baron, <hi>&amp;c. Engl.</hi> 1663</item>
+                  <item>31—another with the Court of Pypowder, <hi>Engl.</hi> 1651</item>
+                  <item>32 <hi>Greenwood</hi>-practical demonſtration of County Judicatures. 1659</item>
+                  <item>33—another with the Authority of Sheriffs, and method of Courts. 1675</item>
+                  <item>34—practick part of the County Court reviv'd. 1657</item>
+                  <item>35—another with the plain Method of keeping Courts. 1657</item>
+                  <item>36 <hi>Lambards</hi> diſcourſe of the High Courts of Juſtice in <hi>England.</hi> 1635</item>
+                  <item>37—another corrected by the Authors Copy. 1635</item>
+                  <item>38 Directions to know the Fees of Prothon. Com. Pleas, and Chancery Courts. 1641</item>
+                  <item>39 <hi>Gregories</hi> Moot-Book, ou abridement des caſes de Leyes. 1599</item>
+                  <item>40 <hi>R.</hi> de <hi>Glanvilla</hi> de Legibus &amp; conſuetudinibus Angliæ. 1673</item>
+                  <item>41—alter, cum duplici Indice &amp; Manuſcriptis examinatus. 1673</item>
+                  <item>42 Forteſcue de laudibus Legum Angliæ, Notis <hi>Jo. Seldeni.</hi> 1672</item>
+                  <item>43—alter with the 2 Sums of Sir <hi>R. Hengham.</hi> 1616</item>
+                  <item>44 Britton de antiquis Legibus Angliæ, by <hi>Wingate, Lond.</hi> 1640</item>
+                  <item>45—another with Notes and Corrections. 1640</item>
+                  <item>46 <hi>Finches</hi> Diſcourſe of the Law of <hi>England.</hi> 1627</item>
+                  <item>47—another of the laſt Edition. 1678</item>
+                  <item>48 <hi>William</hi>'s Excellencie, and Prehemineney of the Law of <hi>England.</hi> 1680</item>
+                  <item>
+                     <pb n="7" facs="tcp:60397:6"/>49—another with a Diſcourſe Tryals by 12 Men 1680</item>
+                  <item>50 Exact Law-giver, containing the Axioms of the Law. 1658</item>
+                  <item>51 Inſtitutions, or principal Grounds of the Laws of <hi>England.</hi> 1625</item>
+                  <item>52 <hi>Topicks</hi> of the Law of <hi>England.</hi> 1646</item>
+                  <item>53—another with reſolutions of Law Caſes. 1647</item>
+                  <item>54 <hi>Noys</hi> Maxims and Ground of the Law. 1677</item>
+                  <item>55—another of the ſame, <hi>4th.</hi> Edition. 1677</item>
+                  <item>56 Enchiridion Legum, or a diſcourſe of the Law of <hi>England.</hi> 1673</item>
+                  <item>57—another of the ſame. 1673</item>
+                  <item>58 Statuta Vetera &amp; Recentiora. 1672</item>
+                  <item>59—another with an abridgment of Statutes. 1672</item>
+                  <item>60 <hi>Bridalls</hi> view of the Laws of <hi>England.</hi> 1678</item>
+                  <item>61 Doctor &amp; Student, a Dialogue about the Laws of <hi>England.</hi> 1623</item>
+                  <item>62—another of the laſt Edition. 1673</item>
+                  <item>63 Abridgment of the Doctor and Student 1630</item>
+                  <item>64 <hi>Calthrops</hi> reports, touching the cuſtomes of the City of <hi>London.</hi> 1670</item>
+                  <item>65—another with the caſe about paying Tythes in <hi>London.</hi> 1670</item>
+                  <item>66 Reports and pleas of Aſſizes at <hi>York.</hi> 1651</item>
+                  <item>67—another with Preſidents of Pleadings at the Aſſizes. 1651</item>
+                  <item>68 <hi>Cooks</hi> neceſſary Uſe, and Fruit of Pleading, <hi>French.</hi> 1601</item>
+                  <item>69 Touchſtone of Preſidents, relating to Judicial proceedings. 1682</item>
+                  <item>70—another by <hi>G. F.</hi> of <hi>Grayes-Inn.</hi> 1682</item>
+                  <item>71 New Book of Inſtruments, fitted for Scriveners, <hi>&amp;c.</hi> 1680</item>
+                  <item>72 Book of Preſidents in the way of a Regiſter. 1572</item>
+                  <item>73 Exact Book of the moſt approved Preſidents, <hi>Lat. Engl.</hi> 1663</item>
+                  <item>74 <hi>Herns</hi> Law of charitable Uſes. 1660</item>
+                  <item>75 Philological Commentary of the obvious, and uſeful words in the Law. 1652</item>
+                  <item>76 <hi>Philips</hi> Principles of the Law reduced to practice. 1660</item>
+                  <item>77 <hi>J. Jenkins</hi> Works on divers Statutes. 1648</item>
+                  <item>78—another concerning Liberty and Freedom of the Subject. 1648</item>
+                  <item>79 <hi>Wilkinſons</hi> Office and Authority of Coroners and Sheriffs. 1675</item>
+                  <item>80—another with directions for keeping Court Leets, <hi>&amp;c.</hi> 1675</item>
+                  <item>81 <hi>Daltons</hi> Office and Authority of Sheriffs. 1628</item>
+                  <item>82 <hi>Fillacers</hi> Office with the Forms of the ſeveral Writs. 1628</item>
+                  <item>83 Attourney of the Court of Common Pleas. 1648</item>
+                  <item>84 <hi>Wentworths</hi> Office and Duty of Executors 1658</item>
+                  <item>85 <hi>Styles</hi> practical Regiſter conſiſting of Rules, <hi>&amp;c.</hi> in the Common Law. 1657</item>
+                  <item>86—another applicable to the proceedings of the Upper Bench. 1657</item>
+                  <item>87 <hi>Lambards</hi> Office of the Juſtices of the Peace, beſt Edit. 1610</item>
+                  <item>88 Compleat Juſtice, with the Judges Reſolutions, 1633. <hi>Lond.</hi> 1656</item>
+                  <item>89—another of the ſame. 1681</item>
+                  <item>90 New Survey of the Juſtice of Peace, his Office, by <hi>W. S.</hi> 1659</item>
+                  <item>91 <hi>Youngs<g ref="char:punc">▪</g>
+                     </hi> Tables to the Statutes, concerning the Juſtices of Peace. 1643</item>
+                  <item>
+                     <pb n="8" facs="tcp:60397:7"/>92 Juſtice reviv'd, or a view of His Majeſties Juſtices of Peace. 1661</item>
+                  <item>90—another of the ſame. 1661</item>
+                  <item>93 Practice of the high Court of Chan. with the ſev. Offices belonging. 1672</item>
+                  <item>94—another with Reports of ſeveral Caſes. 1672</item>
+                  <item>95 <hi>Tothills</hi> Tranſactions of the high Court of Chancery. 1649</item>
+                  <item>96 Collection of Orders heretofore uſed in Chancery. 1649</item>
+                  <item>97—another reforming the abuſes of the ſaid Court. 1649</item>
+                  <item>98 <hi>Jo. Seldens</hi> Priviledges of the Barons of <hi>England</hi> in Parliament. 1642</item>
+                  <item>99 Treatiſe of the Nobility of the Realm. 1642</item>
+                  <item>100 L. <hi>Elleſmere</hi>'s Obſervations on the Office of L. Chancellour. 1651</item>
+                  <item>101 <hi>Elſyng</hi>'s method and manner of holding Parliaments in <hi>England.</hi> 1675</item>
+                  <item>102—another with the Priviledge of Parliaments. 1663</item>
+                  <item>103 J. <hi>Dodridge &amp;c.</hi> their ſeveral opinions of the H. Court of Parliament in <hi>England.</hi> 1658</item>
+                  <item>104—another touching the antiquity, power, and order of Parliaments. 1658</item>
+                  <item>105 <hi>Hakewells</hi> old manner of holding Parliaments in <hi>England.</hi> 1671</item>
+                  <item>106—another with the manner of paſſing Bills in Parliament. 1071</item>
+                  <item>107 Rights of the people, concerning Impoſitions, ſtated in a learned Arg. 1658</item>
+                  <item>108 Law concerning Juries, by <hi>Niſi prius, &amp;c.</hi> by <hi>S. E.</hi> 1666</item>
+                  <item>109 <hi>Cookes</hi> compleat copy holder, with a ſupplement of Additions. 1673</item>
+                  <item>110—another being a diſcourſe of the antiquity of Mannors, and Copy holds. 1644</item>
+                  <item>111 Queſtions reſolv'd by <hi>M. Charta,</hi> who have been <hi>Englands</hi> Enemies. 1650</item>
+                  <item>112 <hi>Brooks</hi> Reading on the Statute of Limitations, 23 <hi>Hen.</hi> 8. <hi>cap.</hi> 2. 1647</item>
+                  <item>113—another of the ſame. 1647</item>
+                  <item>114—<hi>Meritons</hi> Touchſtone of Wills Teſtaments and Adminiſtrations. 1674</item>
+                  <item>115—another with the Caſes and Reſolutions touching the ſame. 1671</item>
+                  <item>116—his Guide for Conſtables, Church-Wardens, Overſeers, <hi>&amp;c.</hi> 1679</item>
+                  <item>117—another ſhewing the Extent and Power of the ſeveral Offices. 1679</item>
+                  <item>118 Exact Conſtable, with his Original, and Power in Office. 1680</item>
+                  <item>119—another with the Addition of the <hi>London</hi> Conſtable. 1680</item>
+                  <item>120 <hi>Sheppards</hi> Offices of Conſtables, Surveyor, and Treaſurers. 1652</item>
+                  <item>122—his <hi>Engl.</hi> Balm, or propoſals to <hi>Cromwel</hi> for the Regul. the Law. 1657</item>
+                  <item>121—his Office of the Clerk of the Market, concerning Proviſions. 1665</item>
+                  <item>123—of Corporations, Fraternities and Guilds. 1659</item>
+                  <item>124—another with Forms of Preſidents and Charters of Corporations. 1659</item>
+                  <item>125—his Actions on the Caſe for Deeds, with 2 Alpha. Tables. 1675</item>
+                  <item>126—another of Deeds, <hi>viz.</hi> Contracts, Aſſumſits, Deceipts, <hi>&amp;c.</hi> 1981</item>
+                  <item>127—his Actions on the caſe for ſlander, under many heads. 1674</item>
+                  <item>128—another of the ſame. 1674</item>
+                  <item>129 <hi>Marches</hi> Actions for ſlander, to which is added Awards, <hi>&amp;c.</hi> Arbit. 1647</item>
+                  <item>130—another of a later Edition, 2 vol. 1655</item>
+                  <item>131 Terms of the words in the Common Law expounded. 1642</item>
+                  <item>
+                     <pb n="9" facs="tcp:60397:7"/>132 Compleat Sollicitor teaching his Clyent to manage his own buſineſs. 1668</item>
+                  <item>133—another with additions 1672</item>
+                  <item>134 Compleat Attourney and Solicitor, laſt Edition, much enlarged<g ref="char:punc">▪</g> 1681</item>
+                  <item>135 <hi>Billing hurſts</hi> Myſteries of Clerk-ſhip, in Deeds, Fines, and Recover. 1674</item>
+                  <item>136—another of the ſame. 1674</item>
+                  <item>137 <hi>Clerks</hi> Vade mecum, or a Collection of Modern Preſidents. 1655</item>
+                  <item>138—another containing all ſorts of Sales, Bargains, Leaſes, <hi>&amp;c.</hi> 1655</item>
+                  <item>139 Young Clerks Tutor inlarged, with directions for all ſorts of Writs. 1680</item>
+                  <item>140—his Guide, being a Collection of choice <hi>Engl.</hi> Preſidents. 2 vol. 1650</item>
+                  <item>141—another compleat, 4 parts, 1 vol. 1663</item>
+                  <item>142 Directions for the Study of the Law, under ſev. heads. 1667</item>
+                  <item>143—another beſt Edition, and inlarged by <hi>W. P.</hi> 1675</item>
+                  <item>144 The Laymans Lawyer, relating to puniſhments, <hi>&amp;c.</hi> 1654</item>
+                  <item>145 The Solicitor, ſhewing particularly the ſuing a Perſon Priviledged. 1663</item>
+                  <item>146 Magna Charta cum ſtatutis tum antiquis, tum recent. Angliæ. 1602</item>
+                  <item>147—alter adjectis nonnullis ſtatutis. 1618</item>
+                  <item>148 <hi>Littletons</hi> Tenures, <hi>French.</hi> 1554</item>
+                  <item>149—another <hi>French,</hi> very large Paper, and noted. 1591</item>
+                  <item>150—the ſame in <hi>Engliſh.</hi> 1627</item>
+                  <item>151—another of the ſame, <hi>Engliſh.</hi> 1627</item>
+                  <item>152 <hi>Brooks</hi> Caſes temp. <hi>Hen.</hi> 8. <hi>Edw.</hi> 6. et R. <hi>Mariæ.</hi> 1625</item>
+                  <item>153—another of the ſame, <hi>French.</hi> 1625</item>
+                  <item>154 Sir <hi>S. Degge</hi>'s Parſons Counſ. with the Law of Tythes and Tythings. 1676</item>
+                  <item>155—another of the ſame. 1676</item>
+                  <item>156 <hi>Hughs</hi> Parſons Law, collect. from the Body of the Common Law. 1641</item>
+                  <item>157—another with the view of Advowſons, beſt Edition. 1673</item>
+                  <item>158 <hi>Clerks</hi> Praxis Curiæ Admiralitatis Angliæ. 1667</item>
+                  <item>159 <hi>R. Zouch</hi>'s Aſſertion of the Jurisdiction of Admirality of <hi>Engl.</hi> againſt <hi>Cook.</hi> 1663</item>
+                  <item>160 <hi>Lambards</hi> duty of Conſtables. </item>
+                  <item>161—another of the ſame. </item>
+                  <item>162 <hi>Landlords</hi> Law. </item>
+                  <item>163—another. </item>
+                  <item>164 Tenants Law. </item>
+                  <item>165—another of the ſame. </item>
+                  <item>266 <hi>Perkins</hi> Works in <hi>Engliſh.</hi> 
+                  </item>
+                  <item>176—another of the ſame. </item>
+               </list>
+            </div>
+            <div n="folios" type="omitted_books">
+               <head>
+                  <hi>Lib. Omiſſi,</hi> Folio. <hi>Law.</hi>
+               </head>
+               <list>
+                  <item>1 COllect. of Acts and Ordin. made in the Parl, examined by Rec. <hi>Lond.</hi> 1658</item>
+                  <item>2—of Statutes in Force, from the beginning. 1621</item>
+                  <item>
+                     <pb n="10" facs="tcp:60397:8"/>3 Tables to the whole body of the Law, Year-books, <hi>&amp;c.</hi> by <hi>Aſh,</hi> 1 vol. 1614</item>
+                  <item>4 <hi>Edw. the</hi> 3, 4 parts. <hi>Edw.</hi> the <hi>4th.</hi> Long Quinto of <hi>Edw.</hi> the <hi>4th. Hen.</hi> 4, and 5. <hi>Hen.</hi> 6. 2 vol. <hi>Hen</hi> 7. with Hundreds of Notes, and Re<g ref="char:EOLhyphen"/>ferences and proper Tables to each Book, commonly called the Year Books, 9 vol. 1680</item>
+                  <item>4 <hi>Yelvertons</hi> Reports fairly noted. 1661</item>
+                  <item>5 <hi>Latches</hi> Reports with Table. 1661</item>
+                  <item>6 <hi>Davis</hi> Reports, old Print, with a Table. 1628</item>
+                  <item>7 <hi>Dyers</hi> Reports, old Print, with a Table. 1601</item>
+                  <item>8—another with a large Table in Twelves, 2 vol. 1585</item>
+                  <item>9 Law of <hi>England</hi> by <hi>Finch, French.</hi> 1613</item>
+                  <item>10 Maxims of Reaſon in the Common Law of <hi>England,</hi> by <hi>Wingate.</hi> 1658</item>
+                  <item>11 Table to all the Preſidents of Pleading in the Law, by <hi>Townſend.</hi> 1670</item>
+                  <item>12 Law of Charitable Uſes, with Caſes, by Sir <hi>Fr. Moore.</hi> 1675</item>
+                  <item>13 <hi>Pulton</hi> de pace Regis &amp; Regni. 1610</item>
+                  <item>14—his Collection of Statutes. </item>
+                  <item>15—another Collection of Statutes, by <hi>Raſtal.</hi> 1595</item>
+                  <item>16 Office and Authority of the Sheriffs, by <hi>Dalton.</hi> 1623</item>
+                  <item>17 <hi>Browns</hi> book of Entries, 2 parts, compleat. 1675</item>
+                  <item>18 <hi>Prynns</hi> Animadverſions on, and amendments of, and explanatory Re<g ref="char:EOLhyphen"/>cords to the Lord <hi>Cooks</hi> Jurisdiction of Courts, Letter'd. 1669</item>
+                  <item>19 <hi>Cook</hi> on <hi>Littleton,</hi> with a Table. 1670</item>
+                  <item>20—his Reports, 11 parts, 1 vol. with a Table, Octa. <hi>French,</hi> old Print. </item>
+                  <item>21—in <hi>Engliſh,</hi> with a large Table. 1680</item>
+                  <item>22 Table to <hi>Cooks</hi> reports, in <hi>Engliſh,</hi> by <hi>Aſh.</hi> 1680</item>
+                  <item>23 <hi>Leonards</hi> Reports 4 parts, compleat. 1650</item>
+                  <item>24 <hi>Hobarts</hi> Reports, <hi>Engliſh,</hi> with a Table. 1658</item>
+                  <item>25 <hi>Anderſons</hi> Reports Q. <hi>Eliz.</hi> 2 vol. compleat. 1664</item>
+                  <item>26 <hi>Crooks</hi> Reports, Firſt part. <hi>Car.</hi> I. 1657</item>
+                  <item>27 <hi>Keebles</hi> Collection of Statutes, laſt Edition, with new References. 1681</item>
+                  <item>28 <hi>Sheppards</hi> Practical Councellor. 1671</item>
+                  <item>29 <hi>Rolls</hi> Reports compleat, 2 vol. 1675</item>
+                  <item>30—abridgment of the Law, 2 vol. 1668</item>
+                  <item>31 <hi>Dalton</hi>'s Office of Sheriffs for the uſe of the Gentry. 1681</item>
+               </list>
+            </div>
+            <div n="quarto" type="omitted_books">
+               <head>Quarto, <hi>Omiſſi. Law.</hi>
+               </head>
+               <list>
+                  <item>
+                     <hi>WEſts</hi> Preſidents, 2 parts, compleat. <hi>Lond.</hi> 1597</item>
+                  <item>2—another compleat, with the Caſes in Star Chamber. 1647</item>
+                  <item>3 <hi>Crooks</hi> and <hi>Huttons</hi> Judgments, as to <hi>Hambdens</hi> Caſe. 1641</item>
+                  <item>4 <hi>Swinbur ne</hi> of Teſtaments, and laſt Wills. 1676</item>
+                  <item>5 <hi>Staundfords</hi> Pleas of the Crown, with the Prerogative of the Kings. 1574</item>
+                  <item>
+                     <pb n="11" facs="tcp:60397:8" rendition="simple:additions"/>6 Compleat Clerk, beſt Preſidents of all ſorts. 1677</item>
+                  <item>7 Abſtract of all the Statutes in Force. </item>
+                  <item>8 <hi>Brooks</hi> Abridgment of the Law, 2 parts, compleat, ſmall <hi>4to.</hi> 1576</item>
+                  <item>9—another of a later Edition, lettred. 1586</item>
+                  <item>10 Placita latine Redeviva, a book of Entries, <hi>&amp;c.</hi> 1661</item>
+                  <item>11 Book of Entries, ſelect Judicial Writs by <hi>Moyle.</hi> 1658</item>
+                  <item>12 <hi>Cowels</hi> Interpreter of the Terms, uſed in the Law. 1637</item>
+                  <item>13 The Conveyancers Light, or exact Preſidents of all ſorts. 1677</item>
+                  <item>14 <hi>Hughes</hi> Commentary on Original Writs. 1655</item>
+                  <item>15 <hi>Jo. Seldens</hi> Hiſtory of Tythes, with opinions concerning them. 1618</item>
+                  <item>16 <hi>Tilleſleys</hi> Animadverſions on Mr. <hi>Seldens</hi> Hiſtory of Tythes 1621</item>
+                  <item>17 <hi>Godolphins</hi> Abridg. of the Eccleſ. Laws, conſiſtent with Temporal 1680</item>
+               </list>
+            </div>
+            <div n="octavos and duodecimos" type="omitted_books">
+               <head>Octavo, Twelves, <hi>&amp;c. <hi>Omiſſi. Law.</hi>
+                  </hi>
+               </head>
+               <list>
+                  <item>1 <hi>BEllews</hi> Abridgment of <hi>Rich.</hi> II. <hi>Lond.</hi> 1585</item>
+                  <item>2 Abridgment des tout Les Ans <hi>Hen.</hi> 7. 1614</item>
+                  <item>3 <hi>Aſhes</hi> Tables to the Lord <hi>Cooks</hi> Reports. 1606</item>
+                  <item>4 <hi>Trotmans</hi> Abridgment of the Lord <hi>Cooks</hi> 11 Reports.—2 1640</item>
+                  <item>5—another of the ſame. 1640</item>
+                  <item>6 Abridgments of <hi>Plowdens</hi> Commentaries. 1607</item>
+                  <item>7—of <hi>Dyers</hi> Reports. 1609</item>
+                  <item>8—another of the ſame. 1609</item>
+                  <item>9 <hi>Fleetwoods</hi> Table to <hi>Edw.</hi> 5. <hi>Rich.</hi> 3. and <hi>Hen.</hi> 7. 1597</item>
+                  <item>10—another. 1597</item>
+                  <item>11 <hi>Magna Charta</hi> cum ſtatutis tum antiquis tum recent Angliæ. 1556</item>
+                  <item>12—another. 1540</item>
+                  <item>13 Terms and difficult Words of the Common Law expounded. 1624</item>
+                  <item>14 <hi>Brooks</hi> Caſes Temp. <hi>Hen.</hi> 8. <hi>Edw.</hi> 6. Q. <hi>Mary.</hi> 1604</item>
+                  <item>15—another of the ſame. 1604</item>
+                  <item>16 <hi>Littletons</hi> Tenures, <hi>French.</hi> 1572</item>
+                  <item>17—another, <hi>Engliſh.</hi> 1597</item>
+                  <item>18 <hi>Perkins</hi> Book of the Laws of <hi>England.</hi> 1507</item>
+                  <item>19 <hi>Fitzherberts</hi> Natura Brevium, continued by <hi>Raſtal, French.</hi> 1598</item>
+                  <item>20—another of the ſame, <hi>French.</hi> 1609</item>
+                  <item>21 <hi>Kitchins</hi> Court Leet, Court Baron, Court Pypowder. 1587</item>
+                  <item>22—another, <hi>French.</hi> 1607</item>
+                  <item>23 Forteſcue de Laudibus Legum Angliæ, with 2 ſums of <hi>R. Hengham.</hi> 1616</item>
+                  <item>24 <hi>Britton</hi> de Legibus &amp; Couſuetudinibus Angliæ. </item>
+                  <item>25—another of the ſame publ. according to <hi>M.</hi> S <hi>S.</hi> by <hi>Wingate.</hi> 1640</item>
+                  <item>26 <hi>Topicks</hi> of the Law of <hi>England.</hi> 1647</item>
+                  <item>27 <hi>Noys</hi> Maxims and Grounds of the Laws of the Kingdom. 1642</item>
+                  <item>
+                     <pb n="12" facs="tcp:60397:9"/>28 Inſtitutions of the Laws and Statutes of <hi>England.</hi> 1623</item>
+                  <item>29 Collection of Statutes, relating to the Practice of the Common Law. 1672</item>
+                  <item>30 Doctor and Student, a Dialogue of the Laws of England. 1607</item>
+                  <item>31 <hi>Calthrops</hi> Reports of the Cuſtomes and Liberties of the City of <hi>Lond.</hi> 1670</item>
+                  <item>32—another of the ſame. 1670</item>
+                  <item>33 <hi>Book</hi> of Preſidents, with divers neceſſary Inſtruments. 1604</item>
+                  <item>34—another with ſundry new additions. 1631</item>
+                  <item>35 <hi>Styles</hi> Regiſter, with obſervations concerning the Common Law. 1657</item>
+                  <item>36 <hi>Wilkinſons</hi> Treatiſe of the Office of Coroners Sheriffs. 1638</item>
+                  <item>37—another with the Method of keeping of Courts. 1641</item>
+                  <item>38 <hi>Cooks</hi> Compleat Copy-holder. 1644</item>
+                  <item>39—another with a ſupplement. 1673</item>
+                  <item>40 <hi>Brooks</hi> Reading on the Statute of Limitations. 1647</item>
+                  <item>41 <hi>Manual</hi> for Juſtices of Peace, out of <hi>Lambard, Crompton,</hi> and <hi>Dalton.</hi> 1642</item>
+                  <item>42 Fundamental Conſtitutions of the Palace Court, or <hi>Marſhalſea.</hi> 1663</item>
+                  <item>43 Catalogue of the Common and Statute Law Books of this Realm. 1671</item>
+                  <item>44 Juſtice Reviv'd, or a Guide for his Majeſties Juſtices of Peace. 1661</item>
+                  <item>45—another of the ſame. 1661</item>
+                  <item>46 <hi>Meritons</hi> Touchſtone of VVills Teſtaments, and Adminiſtrations. 1671</item>
+                  <item>47 <hi>Sheppards</hi> Office of Conſtables, Church-VVardens, <hi>&amp;c. Lond.</hi> 1659</item>
+                  <item>48—his Juſtice of Peaces Clerks Cabinet, being Preſidents. 1660</item>
+                  <item>49—another of the ſame. 1660</item>
+                  <item>50—of Fraternities, Corporations, and Guilds. 1659</item>
+                  <item>51 <hi>Tothills</hi> Tranſactions of the High Court of Chancery. 1649</item>
+                  <item>52—another with the Fees of the ſaid Court. 1671</item>
+                  <item>53 Practice of the High Court of Chancery, with the Offices belonging. 1672</item>
+                  <item>54—another with Reports of many Caſes. 1672</item>
+                  <item>55 Compleat Solicitor, performing his Dutie in all Courts. 1672</item>
+                  <item>56—another of the ſame, Fourth Edition. 1672</item>
+                  <item>57 Directions for the ſtudy of the Law. 1675</item>
+                  <item>58—another of the ſame. 1675</item>
+                  <item>59 <hi>Hughs</hi> Parſon's Law. 1641</item>
+                  <item>60—another collected out of the Body of Common Law. 1641</item>
+                  <item>61 Treatiſe of the Nobility of the Realm, by <hi>J. Selden.</hi> 1642</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
